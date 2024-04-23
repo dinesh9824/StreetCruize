@@ -1,0 +1,14 @@
+.fout-o-four{
+    display: block;
+    margin: 60px auto;
+}
+
+.fout-o-four-msg{
+    text-align: center;
+    text-transform: capitalize;
+    color: #383838;  
+}
+
+.fout-o-four-msg a{
+    color: #383838;
+}
